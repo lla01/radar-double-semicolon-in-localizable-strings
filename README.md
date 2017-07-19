@@ -1,0 +1,1 @@
+# radar-double-semicolon-in-localizable-strings
