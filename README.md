@@ -8,8 +8,8 @@
 
 ==> Note that texts are displayed properly localized
 
-2. Now change language and region to German / Germany
-2. Re-build and run in simulator
+1. Now change language and region to German / Germany
+1. Re-build and run in simulator
 
 ==> Note that the second string is not properly localized.
 
