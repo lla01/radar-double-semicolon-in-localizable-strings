@@ -1,9 +1,8 @@
 /* 
   Localizable.strings
-  InvalidStringsFileDemp
+  InvalidStringsFileDemo
 
   Created by Lutz Lameyer on 19.07.17.
-  Copyright © 2017 StepStone Continental Europe GmbH. All rights reserved.
 */
 "first_text" = "First label text in English";
 "second_text" = "Second label text in English";
